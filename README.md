@@ -59,7 +59,7 @@ This repository is a collection of image quality assessment (IQA) methods for th
 | ILNIQE     | 0.8939   | 0.9418 | 0.9807 | 0.9153 | 0.8327     | 0.903  |
 | KonIQ++    | --       | --     | --     | --     | --         | --     |
 | MANIQA     | --       | --     | --     | --     | --         | --     |
-| MEON       | 0.925    | 0.979  | 0.958  | 0.946  | 0.944      |        |
+| MEON       | 0.925    | 0.979  | 0.958  | 0.946  |            | 0.944  |
 | MetaIQA    | --       | --     | --     | --     | --         | --     |
 | MUSIQ      | --       | --     | --     | --     | --         | --     |
 | NIMA       | --       | --     | --     | --     | --         | --     |
